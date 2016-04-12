@@ -116,13 +116,26 @@
     <Content Include="img\banners\03_bg.jpg" />
     <Content Include="img\banners\04_bg.jpg" />
     <Content Include="img\banners\05_bg.jpg" />
+    <Content Include="img\banners\city-sunset-sunrise-lens-flare.jpg" />
+    <Content Include="img\banners\EFP_keyboard_blue-606262.jpg" />
+    <Content Include="img\banners\EFP_Slovenia_fromthetop_PW1_banner2b_Venice-392.jpg" />
+    <Content Include="img\banners\EFP_Slovenia_fromthetop_PW1_banner2c_Venice-392.jpg" />
+    <Content Include="img\banners\EFP_wood_bg-622.jpg" />
+    <Content Include="img\banners\EFP_wood_scenic_landscape-382.jpg" />
+    <Content Include="img\banners\PRODUCT.jpg" />
+    <Content Include="img\FACTORIAL.jpg" />
+    <Content Include="img\SUM.jpg" />
     <Content Include="img\commenter\01.jpg" />
     <Content Include="img\commenter\02.jpg" />
     <Content Include="img\commenter\03.jpg" />
     <Content Include="img\EFP_Slovenia_fromthetop_PW1_banner1-2032.jpg" />
     <Content Include="img\favicon.ico" />
+    <Content Include="img\Greatest.jpg" />
+    <Content Include="img\JS-img_Greatest.jpg" />
+    <Content Include="img\LEAST.jpg" />
     <Content Include="img\loading.gif" />
     <Content Include="img\logo.png" />
+    <Content Include="img\Logo_1.png" />
     <Content Include="img\portfolio\01.jpg" />
     <Content Include="img\portfolio\02.jpg" />
     <Content Include="img\portfolio\03.jpg" />
@@ -135,6 +148,16 @@
     <Content Include="img\portfolio\10.jpg" />
     <Content Include="img\portfolio\11.jpg" />
     <Content Include="img\portfolio\12.jpg" />
+    <Content Include="img\portfolio\EFP_texture1_box_blue_stucco-352_400x400_wash.jpg" />
+    <Content Include="jsExercises.html" />
+    <Content Include="js\Factorial_exercise_JS.js" />
+    <Content Include="js\FizzBuzz_Exercise.js" />
+    <Content Include="js\Greatest_Exercise2.js" />
+    <Content Include="js\Least_Exercise1.js" />
+    <Content Include="js\Mean_Exercise5.js" />
+    <Content Include="js\Palindrome_Exercise.js" />
+    <Content Include="js\Product_Exercise4.js" />
+    <Content Include="js\Sum_Exercise3.js" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -148,6 +171,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Properties\PublishProfiles\epokela.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
